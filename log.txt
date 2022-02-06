@@ -1,0 +1,47 @@
+commit 99d0886b79a55bbfeb67a00bc6b55992460fe958
+Author: Roberto Sandoval <robsnuarder1111@gmail.com>
+Date:   Sat Feb 5 23:31:22 2022 -0600
+
+    Se modifico el archivo de texto 2
+
+commit 628701c54926d74420371d72233000470773ba35
+Author: Roberto Sandoval <robsnuarder1111@gmail.com>
+Date:   Sat Feb 5 23:09:29 2022 -0600
+
+    Se modifico el archivo de texto
+
+commit e0bc5209dc60e8ce896101a3307220c36782bcb3
+Author: Roberto Sandoval <robsnuarder1111@gmail.com>
+Date:   Thu Feb 3 23:01:42 2022 -0600
+
+    Commit arreglado
+
+commit 889fee87f036bdf8ea195d58623a75b2944594a6
+Author: Roberto Sandoval <robsnuarder1111@gmail.com>
+Date:   Thu Feb 3 22:55:40 2022 -0600
+
+    Se agrega un nuevo archivo de prueba, para GitHub
+
+commit faa28b58424f27d60c01f43fd2f6496e1508fef3
+Author: Roberto Sandoval <robsnuarder1111@gmail.com>
+Date:   Tue Feb 1 11:38:33 2022 -0600
+
+    Se agrego un nuevo archivo de prueba sobre la rama texto
+
+commit 6a4148b36af89f8e20853ff58b07e8eeb700d94b
+Author: Roberto Sandoval <robsnuarder1111@gmail.com>
+Date:   Tue Feb 1 11:21:50 2022 -0600
+
+    Se modifico el archivo de texto con un comentario. Más que una pregunta, un comentario.
+
+commit 3906dc65d1256f0a705e41ac69a6a218f37b6fcf
+Author: Roberto Sandoval <robsnuarder1111@gmail.com>
+Date:   Tue Feb 1 11:17:16 2022 -0600
+
+    Integrasión de nuevos ficheros sobre la rama test
+
+commit 428cb288422974bea13777f4d50840fb2d25e393
+Author: Roberto Sandoval <robsnuarder1111@gmail.com>
+Date:   Tue Feb 1 10:38:32 2022 -0600
+
+    Prácticas Master Python
